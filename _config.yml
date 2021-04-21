@@ -66,7 +66,8 @@ content:
           - Writing procedures on database
           - Auth System configurations
           - Code Review
-          <mark> Tech Stack:  Exressjs(Nodejs), Vuejs (Quasar framework), Postgresql, Socket.io, Redis</mark>
+
+          Tech Stack:  <mark>Exressjs(Nodejs), Vuejs (Quasar framework), Postgresql, Socket.io, Redis</mark>
       - layout: top-middle
         title: Docflow
         #link: github.com/sproogen
@@ -84,7 +85,8 @@ content:
           - Created Rest Api Endpoints
           - Notification module using websockets
           - File UI module
-          <mark> Tech Stack:  Spring Boot, Angular 6+, Oracle </mark>
+
+          Tech Stack: <mark> Spring Boot, Angular 6+, Oracle </mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -95,18 +97,18 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Developer
         caption: May 2019 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
       - layout: left
         title: Fido Biznes
         link: http://www.fido-biznes.uz/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Junior Developer
+        caption: December 2018 - May 2019
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
