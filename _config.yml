@@ -138,11 +138,11 @@ content:
     layout: text
     content: |
       <figure style="display: inline-block">
-        <img src="/images/landscape-trees.jpg" alt="drawing" width="200"/>
+        <img src="/images/landscape-trees.jpg" alt="drawing" width="300"/>
         <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
       </figure>
       <figure style="display: inline-block">
-        <img src="/images/landscape-trees.jpg" alt="drawing" width="200"/>
+        <img src="/images/landscape-trees.jpg" alt="drawing" width="300"/>
         <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
       </figure>
   - title: Skills
@@ -163,11 +163,6 @@ content:
       Alongside my interests in software engineering some of my other interests and hobbies are:
       - Rock climbing
       - Gaming
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      <img src="/images/landscape-trees.jpg" alt="drawing" width="200"/>
-      ![Trees](/images/landscape-trees.jpg "Trees")  ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
