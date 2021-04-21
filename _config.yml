@@ -137,12 +137,14 @@ content:
   - title: Awards & Certificates
     layout: text
     content: |
-      <img src="/images/landscape-trees.jpg" alt="drawing" width="200"/>
-      <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-
-      <img src="/images/landscape-trees.jpg" alt="drawing" width="200"/>
-      <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-
+      <figure style="display: inline-block">
+        <img src="/images/landscape-trees.jpg" alt="drawing" width="200"/>
+        <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+      </figure>
+      <figure style="display: inline-block">
+        <img src="/images/landscape-trees.jpg" alt="drawing" width="200"/>
+        <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+      </figure>
   - title: Skills
     layout: text
     content: |
