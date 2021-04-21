@@ -159,7 +159,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg = 500x500 "Trees")
+      ![Trees](/images/landscape-trees.jpg = 500x500)
       ![Trees](/images/landscape-trees.jpg "Trees")  ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
