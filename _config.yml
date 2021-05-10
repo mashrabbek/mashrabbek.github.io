@@ -62,12 +62,27 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Developer
         caption: May 2019 - Present
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Created and ran local projects for optimizing work efficiency of workers including tasks module, accounting and monitoring IT devices, phone library, self assessment testing, finance and more.. Designed projects and mainly worked on backend.
+          - Responsible for creating Rest Apis
+          - Writing procedures on database
+          - Auth System configurations
+          - Code Review
       - layout: left
         title: Fido Biznes
         link: http://www.fido-biznes.uz/
         # link_text: boringcompany.com
         sub_title: Junior Developer
         caption: December 2018 - May 2019
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Started to work on scalable projects and helped for project development and gained skills.
+          - Created Rest Api Endpoints
+          - Notification module using websockets
+          - File UI module
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
