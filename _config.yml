@@ -53,41 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Nodejs</mark> and <mark>Vuejs</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Personal Cabinet
-        quote: >
-          Personal Cabinet for bank workers.
-        description: | # this will include new lines to allow paragraphs
-          Created for NBU workers for optimizing work efficiency. Includes tasks module, accounting and monitoring IT devices, phone library, self assessment testing, finance and more.
-          - Responsible for creating Rest Apis
-          - Writing procedures on database
-          - Auth System configurations
-          - Code Review
-
-          Tech Stack:  <mark>Exressjs(Nodejs), Vuejs (Quasar framework), Postgresql, Socket.io, Redis</mark>
-      - layout: top-middle
-        title: Docflow
-        #link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-        #  - title: sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Document flow, task assignment system.
-        description: | # this will include new lines to allow paragraphs
-          - Created Rest Api Endpoints
-          - Notification module using websockets
-          - File UI module
-
-          Tech Stack: <mark> Spring Boot, Angular 6+, Oracle </mark>
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -97,20 +62,12 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Developer
         caption: May 2019 - Present
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          Created and ran local projects of bank. Designed projects and mainly worked on backend.
       - layout: left
         title: Fido Biznes
         link: http://www.fido-biznes.uz/
         # link_text: boringcompany.com
         sub_title: Junior Developer
         caption: December 2018 - May 2019
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          Started to work on scalable projects and helped for project development and gained skills.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -172,20 +129,21 @@ content:
   - title: Skills
     layout: text
     content: |
-      - Nodejs
-      - Expressjs
-      - Vuejs
-      - Postgresql
+      - Nodejs (Express.js, Nest.js)
+      - Vuejs (Quasar, Vuetify)
+      - Postgresql, Oracle, Mongodb
       - Redis
       - Docker
       - Socket.io
       - Typescript
       - Git
+      - Java (Spring Boot)
+      - ORM (Sequelize, TypeORM, Hibernate)
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      - Competetive programmming
       - Gaming
 
 # Footer
