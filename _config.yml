@@ -137,35 +137,35 @@ content:
     layout: text
     content: |
       <figure style="display: inline-block">
-        <img src="/images/grant.jpg" alt="drawing" width="300"/>
+        <img src="/images/grant.jpg" alt="drawing" width="300" heigth="600"/>
         <figcaption>Founder's Grant Scholarship</figcaption>
       </figure>
       <figure style="display: inline-block">
-        <img src="/images/dean.jpg" alt="drawing" width="300"/>
+        <img src="/images/dean.jpg" alt="drawing" width="300" heigth="600"/>
         <figcaption>Academic award</figcaption>
       </figure>
       <figure style="display: inline-block">
-        <img src="/images/kafolat.jpg" alt="drawing" width="300"/>
+        <img src="/images/kafolat.jpg" alt="drawing" width="300" heigth="600"/>
         <figcaption>Mobile App in Insurance</figcaption>
       </figure>
       <figure style="display: inline-block">
-        <img src="/images/java.jpg" alt="drawing" width="300"/>
+        <img src="/images/java.jpg" alt="drawing" width="300" heigth="600"/>
         <figcaption>Java Certificate</figcaption>
       </figure>
       <figure style="display: inline-block">
-        <img src="/images/oracle.jpg" alt="drawing" width="300"/>
+        <img src="/images/oracle.jpg" alt="drawing" width="300" heigth="600"/>
         <figcaption>Oracle Database Certificate</figcaption>
       </figure>
       <figure style="display: inline-block">
-        <img src="/images/opensource.jpg" alt="drawing" width="300"/>
+        <img src="/images/opensource.jpg" alt="drawing" width="300" heigth="600"/>
         <figcaption>Open Source SW Seminar</figcaption>
       </figure>
       <figure style="display: inline-block">
-        <img src="/images/windows.jpg" alt="drawing" width="300"/>
+        <img src="/images/windows.jpg" alt="drawing" width="300" heigth="600"/>
         <figcaption>Windows Server Certificate</figcaption>
       </figure>
       <figure style="display: inline-block">
-        <img src="/images/itil.jpg" alt="drawing" width="300"/>
+        <img src="/images/itil.jpg" alt="drawing" width="300" heigth="600"/>
         <figcaption>ITIL fundamentals Certificate</figcaption>
       </figure>
       
