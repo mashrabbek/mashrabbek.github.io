@@ -151,7 +151,7 @@ content:
       - Docker
       - Socket.io
       - Typescript
-      - Git
+      - Git & Gitlab CI/CD
       - Java (Spring Boot)
       - ORM (Sequelize, TypeORM, Hibernate)
   - title: A Little More About Me
