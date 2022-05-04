@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Mashrabbek and I'm a software developer with over 3 years experience on creating web apps and services. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Mashrabbek and I'm a software developer with over 4 years experience on creating web apps and services. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Nodejs</mark> and <mark>Vuejs</mark>
+  I am most skilled in: <mark>Java</mark> and <mark>Javascript</mark>
 
 content:
   - title: Experience # Title for the section
@@ -74,15 +74,25 @@ content:
         title: Fido Biznes
         link: http://www.fido-biznes.uz/
         # link_text: boringcompany.com
-        sub_title: Junior Developer
+        sub_title: Software Developer
         caption: December 2018 - May 2019
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          Started to work on scalable projects and helped for project development and gained skills.
+          Started to work on scalable team projects and helped for project development and gained skills.
           - Created Rest Api Endpoints
           - Notification module using websockets
           - File UI module
+      - layout: left
+        title: Freelance
+        link: 
+        # link_text: boringcompany.com
+        sub_title: Software Developer
+        caption: March 2018 - November 2018
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+               
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -144,6 +154,7 @@ content:
   - title: Skills
     layout: text
     content: |
+      - Java (Spring Boot)
       - Nodejs (Express.js, Nest.js)
       - Vuejs (Quasar, Vuetify)
       - Postgresql, Oracle, Mongodb
@@ -152,7 +163,6 @@ content:
       - Socket.io
       - Typescript
       - Git & Gitlab CI/CD
-      - Java (Spring Boot)
       - ORM (Sequelize, TypeORM, Hibernate)
   - title: A Little More About Me
     layout: text
