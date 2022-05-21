@@ -57,7 +57,7 @@ content:
     content:
       - layout: left
         title: National Bank of Uzbekistan
-        link: nbu.uz
+        link: https://nbu.uz/en/
         # link_text: boringcompany.com
         sub_title: Software Developer
         caption: May 2019 - January 2022
@@ -86,14 +86,14 @@ content:
 
       - layout: left
         title: FlexIT
-        link: flexit.uz
-        link_text: boringcompany.com
+        link: https://flexit.uz/
+        #link_text: boringcompany.com
         sub_title: Software Developer
         caption: March 2018 - November 2018
 
       - layout: left
         title: National Bank of Uzbekistan
-        link: nbu.uz
+        link: https://nbu.uz/en/
         # link_text: boringcompany.com
         sub_title: Software Developer (Internship)
         caption: January 2018 - March 2018
