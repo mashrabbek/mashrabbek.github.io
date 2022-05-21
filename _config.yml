@@ -9,7 +9,7 @@ version: 2
 name: Mashrabbek Akbarov
 title: Fullstack Software Developer
 email: akbarov.dev@gmail.com
-website: mashrabbek.github.io
+website: mashrabbek.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -17,8 +17,8 @@ darkmode: false
 # Social links
 twitter_username: mashrabj0n
 github_username: mashrabbek
-stackoverflow_username: `10593484`
-linkedin_username: mashrabjon-akbarov-41a3a1146
+stackoverflow_username: "10593484"
+linkedin_username: mashrabbek-akbarov
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -48,8 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Mashrabbek and I'm a software developer with over 4 years experience on creating web apps and services. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  Hi, my name's Mashrabbek and I'm a software developer with 4 years of experience on creating web apps and services. I have worked at a number of companies gaining teamwork and leadership skills.
   I am most skilled in: <mark>Java</mark> and <mark>Javascript</mark>
 
 content:
@@ -61,7 +60,7 @@ content:
         link: nbu.uz
         # link_text: boringcompany.com
         sub_title: Software Developer
-        caption: May 2019 - Present
+        caption: May 2019 - January 2022
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -70,6 +69,7 @@ content:
           - Writing procedures on database
           - Auth System configurations
           - Code Review
+
       - layout: left
         title: Fido Biznes
         link: http://www.fido-biznes.uz/
@@ -80,22 +80,42 @@ content:
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           Started to work on scalable team projects and helped for project development and gained skills.
-          - Created Rest Api Endpoints
+          - Created Rest API Endpoints
           - Notification module using websockets
           - File UI module
+
       - layout: left
-        title: Freelance
-        link: 
-        # link_text: boringcompany.com
+        title: FlexIT
+        link: flexit.uz
+        link_text: boringcompany.com
         sub_title: Software Developer
         caption: March 2018 - November 2018
+
+      - layout: left
+        title: National Bank of Uzbekistan
+        link: nbu.uz
+        # link_text: boringcompany.com
+        sub_title: Software Developer (Internship)
+        caption: January 2018 - March 2018
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-               
+          Worked on search app
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Maharishi International University
+        caption: January 2022 - present
+        sub_title: MSc Computer Science
+        #quote: >
+        #  Established in 2014,  United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at University I got courses from highly qualified prefessors. Finished course projects which later helped me on working in team and self studying. 
+          - Founders' Grant Holder
+          - Dean List Member in 2016
+
       - layout: left
         title: Inha University in Tashkent
         caption: 2014 - 2018
@@ -150,7 +170,7 @@ content:
         <img src="/images/itil.jpg" alt="drawing" width="400" heigth="600"/>
         <figcaption>ITIL fundamentals Certificate</figcaption>
       </figure>
-      
+
   - title: Skills
     layout: text
     content: |
